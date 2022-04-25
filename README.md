@@ -1,2 +1,2 @@
-# estudo_web
+# Calculadora
 Apenas praticando um pouco.
